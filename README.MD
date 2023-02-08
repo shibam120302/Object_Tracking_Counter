@@ -4,7 +4,7 @@
 
 1) Clone this Repository 
 
-   `https://github.com/TalalAhmed311/Object-Tracking-Counter`
+   `https://github.com/shibam120302/Object-Tracking-Counter`
    
 2) Clone the Yolov5 Repository this Object-Tracking-Counter Folder
 
